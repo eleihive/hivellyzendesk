@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="209" height="136" viewBox="0 0 209 136">
+  <defs>
+    <clipPath id="clip-CTXWallet3">
+      <rect width="209" height="136"/>
+    </clipPath>
+  </defs>
+  <g id="CTXWallet3" clip-path="url(#clip-CTXWallet3)">
+    <g id="Grupo_2091" data-name="Grupo 2091" transform="translate(-1352.328 -140.146)">
+      <path id="Unión_20" data-name="Unión 20" d="M14.966,87.043C6.7,87.043,0,81.476,0,74.609V12.438C0,5.568,6.7,0,14.966,0h86.057c6.2,0,11.224,4.178,11.224,9.329,0,1.716-1.675,3.11-3.742,3.11h-89.8c-2.068,0-3.742,1.39-3.742,3.109s1.675,3.105,3.742,3.105h89.144c6.552,0,11.879,4.185,11.879,9.328V77.718c0,5.143-5.327,9.325-11.879,9.325Z" transform="translate(1396.875 154.998)" fill="#aae5f2"/>
+      <g id="Grupo_369" data-name="Grupo 369" transform="translate(1424.354 181.577)">
+        <g id="Grupo_201" data-name="Grupo 201" transform="translate(0 0)">
+          <g id="Grupo_200" data-name="Grupo 200">
+            <path id="Icon_awesome-cube" data-name="Icon awesome-cube" d="M9.506.349,1.236,3.45A1.911,1.911,0,0,0,0,5.239v8.949a1.907,1.907,0,0,0,1.054,1.706l8.269,4.135a1.9,1.9,0,0,0,1.706,0L19.3,15.894a1.9,1.9,0,0,0,1.054-1.706V5.239a1.906,1.906,0,0,0-1.236-1.785L10.846.353A1.875,1.875,0,0,0,9.506.349Zm.672,2.469,7.633,2.862v.044l-7.633,3.1-7.633-3.1V5.681ZM11.45,16.972v-5.92l6.361-2.584v5.323Z" transform="translate(0 -0.228)"/>
+            <path id="Icon_awesome-cube-2" data-name="Icon awesome-cube" d="M7.013.317.912,2.605A1.41,1.41,0,0,0,0,3.925v6.6a1.407,1.407,0,0,0,.777,1.258l6.1,3.051a1.4,1.4,0,0,0,1.258,0l6.1-3.051a1.405,1.405,0,0,0,.777-1.258v-6.6A1.406,1.406,0,0,0,14.1,2.608L8,.32A1.383,1.383,0,0,0,7.013.317Zm.5,1.822,5.632,2.112v.032L7.509,6.571,1.877,4.283V4.251Zm.939,10.442V8.214l4.693-1.907v3.928Z" transform="translate(34.462 1.795)"/>
+            <path id="Icon_awesome-cube-3" data-name="Icon awesome-cube" d="M13.991.407,1.82,4.971A2.813,2.813,0,0,0,0,7.6V20.776a2.807,2.807,0,0,0,1.551,2.51l12.171,6.086a2.789,2.789,0,0,0,2.51,0L28.4,23.286a2.8,2.8,0,0,0,1.551-2.51V7.6a2.8,2.8,0,0,0-1.82-2.627L15.963.413A2.76,2.76,0,0,0,13.991.407Zm.989,3.634L26.215,8.254v.064L14.98,12.882,3.745,8.318V8.254Zm1.872,20.831V16.159l9.362-3.8v7.835Z" transform="translate(16.815 22.658)"/>
+            <path id="Trazado_226" data-name="Trazado 226" d="M3624.679-404.068h-15.2v3.666h17.365Z" transform="translate(-3589.885 411.821)"/>
+            <path id="Trazado_227" data-name="Trazado 227" d="M15.2,0H0V3.694l15.42.048Z" transform="translate(16.253 15.332) rotate(45)"/>
+          </g>
+        </g>
+        <path id="Unión_9" data-name="Unión 9" d="M8.9,22.649v-8.9H0V8.9H8.9V0H13.75V8.9h8.9V13.75h-8.9v8.9Z" transform="translate(49.638 9.909)"/>
+      </g>
+    </g>
+    <g id="Grupo_2162" data-name="Grupo 2162" transform="translate(-9 6)">
+      <text id="_110_" data-name="110% " transform="translate(95 117)" fill="#6ed346" font-size="19" font-family="Lato-Regular, Lato"><tspan x="0" y="0">110% </tspan></text>
+      <path id="Icon_ionic-md-arrow-dropleft" data-name="Icon ionic-md-arrow-dropleft" d="M19.5,9l-6,6,6,6Z" transform="translate(101.203 93) rotate(90)" fill="#6ed346"/>
+    </g>
+  </g>
+</svg>

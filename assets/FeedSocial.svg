@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="695" height="448" viewBox="0 0 695 448">
+  <defs>
+    <clipPath id="clip-FeedSocial">
+      <rect width="695" height="448"/>
+    </clipPath>
+  </defs>
+  <g id="FeedSocial" clip-path="url(#clip-FeedSocial)">
+    <g id="Grupo_2071" data-name="Grupo 2071">
+      <g id="Post_1" data-name="Post 1" transform="translate(23 28)">
+        <g id="Grupo_1796" data-name="Grupo 1796">
+          <g id="Rectángulo_862" data-name="Rectángulo 862" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5V124a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V122a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+          <g id="Rectángulo_863" data-name="Rectángulo 863" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5v5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V8a1,1,0,0,1-1,1H2A1,1,0,0,1,1,8V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+        <text id="BTC_to_the_MOON_" data-name="BTC to the MOON!" transform="translate(101 57)" fill="#aae5f2" font-size="38" font-family="Lato-Regular, Lato"><tspan x="0" y="38">BTC to the MOON!</tspan></text>
+        <g id="username-date" transform="translate(101 29)">
+          <text id="_BoobaFeet" data-name="@BoobaFeet" transform="translate(0 19)" fill="#aae5f2" font-size="19" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">@BoobaFeet</tspan></text>
+        </g>
+        <g id="Elipse_206" data-name="Elipse 206" transform="translate(16 31)" fill="none" stroke="#aae5f2" stroke-width="3">
+          <ellipse cx="35.5" cy="35" rx="35.5" ry="35" stroke="none"/>
+          <ellipse cx="35.5" cy="35" rx="37" ry="36.5" fill="none"/>
+        </g>
+        <g id="Grupo_1798" data-name="Grupo 1798" transform="translate(508.469 17.005)">
+          <g id="share-action" transform="translate(92.531 32.461)">
+            <text id="Share" transform="translate(0 26.534)" fill="#aae5f2" font-size="12" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Share</tspan></text>
+            <g id="share-icon" transform="translate(9.386 0)">
+              <path id="rect" d="M12.963,14.537H0V2.5H4.63V3.889H1.389v9.259H11.574V8.981h1.389Z" transform="translate(0 -1.343)" fill="#aae5f2"/>
+              <path id="arrow" d="M17.685,4.167,13.055,0V2.315C9.861,2.454,7.5,3.518,7.5,8.333c1.111-1.481,2.361-2.361,5.555-2.315V8.333Z" transform="translate(-4.028)" fill="#aae5f2"/>
+            </g>
+          </g>
+          <path id="Trazado_934" data-name="Trazado 934" d="M1343,555.795v97.488" transform="translate(-1343 -555.795)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+          <text id="_2_days_ago." data-name="2 days ago." transform="translate(44.531 58.995)" fill="#aae5f2" font-size="12" font-family="Lato-Italic, Lato" font-style="italic" letter-spacing="-0.01em"><tspan x="-26.679" y="0">2 days ago.</tspan></text>
+          <text id="Posted" transform="translate(46.531 44.995)" fill="#aae5f2" font-size="13" font-family="Lato-Regular, Lato" letter-spacing="-0.01em"><tspan x="-19.448" y="0">Posted</tspan></text>
+        </g>
+        <path id="Sustracción_5" data-name="Sustracción 5" d="M-6569.262-5870.045h-34.255l-8.03-3.607-3.932-4.531a76.648,76.648,0,0,1,13.274-5.458l1.286-2.491c0-.02-.126-2.046.438-2.649a.494.494,0,0,1,.37-.17,3.905,3.905,0,0,0,1.4-.18l.469-5.969a3.806,3.806,0,0,1-.544-.449c-.565-.525-1.933-2.225-2.426-6.672a3.442,3.442,0,0,1-1.654-3c-.044-.484-.115-1-.172-1.414-.19-1.39-.37-2.7.14-3.289a1.05,1.05,0,0,1,.843-.328l.073-11.986a21.916,21.916,0,0,1,4.5-4.884,22.113,22.113,0,0,1,5.629-3.357,20.854,20.854,0,0,1,7.891-1.526c.7,0,1.41.034,2.123.1.06-.005.171-.014.289-.014.16,0,.354.017.374.1s-.142.209-.478.382-.721.323-1.1.472c-.748.293-1.453.57-1.506.9-.019.114.041.226.18.342.186.156.7.525,1.347.992,2.246,1.618,6.425,4.628,6.481,5.537.05.777.033,4.791.018,7.114l.037,5.835a1.048,1.048,0,0,1,.842.328c.511.585.33,1.9.14,3.291l0,.022c-.063.456-.127.928-.17,1.389a3.441,3.441,0,0,1-1.655,3c-.489,4.445-1.859,6.147-2.426,6.672a3.689,3.689,0,0,1-.542.449l.471,5.969a3.855,3.855,0,0,0,1.4.18.494.494,0,0,1,.37.17c.567.6.44,2.629.438,2.649l1.286,2.491c5.021,1.342,11.24,4.355,15.574,6.647l-2.445,2.38-6.334,4.569Z" transform="translate(6640.345 5968.52)" fill="#aae5f2" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_1520" data-name="Trazado 1520" d="M6728.058,6051.662l-7.8,6.839-11.113,3.419-9.19,1.175-8.014-1.923s-7.587-1.709-8.014-2.671-5.557-4.381-3.206-5.343,9.724-3.419,11.22-3.74,15.495.107,17.2,0S6728.058,6051.662,6728.058,6051.662Z" transform="translate(-6651 -5960)" fill="#aae5f2"/>
+      </g>
+      <g id="Post_1-2" data-name="Post 1" transform="translate(23 314)">
+        <g id="Grupo_1796-2" data-name="Grupo 1796">
+          <g id="Rectángulo_862-2" data-name="Rectángulo 862" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5V124a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V122a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+          <g id="Rectángulo_863-2" data-name="Rectángulo 863" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5v5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V8a1,1,0,0,1-1,1H2A1,1,0,0,1,1,8V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+        <text id="Tight_stop_loss." data-name="Tight stop loss." transform="translate(101 57)" fill="#aae5f2" font-size="38" font-family="Lato-Regular, Lato"><tspan x="0" y="38">Tight stop loss.</tspan></text>
+        <g id="username-date-2" data-name="username-date" transform="translate(101 28)">
+          <text id="_SoBold" data-name="@SoBold" transform="translate(0 19)" fill="#aae5f2" font-size="19" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">@SoBold</tspan></text>
+        </g>
+        <g id="Elipse_206-2" data-name="Elipse 206" transform="translate(16 31)" fill="none" stroke="#aae5f2" stroke-width="3">
+          <ellipse cx="35.5" cy="35" rx="35.5" ry="35" stroke="none"/>
+          <ellipse cx="35.5" cy="35" rx="37" ry="36.5" fill="none"/>
+        </g>
+        <g id="Grupo_1798-2" data-name="Grupo 1798" transform="translate(508.47 16.872)">
+          <g id="share-action-2" data-name="share-action" transform="translate(92.531 32.461)">
+            <text id="Share-2" data-name="Share" transform="translate(0 26.667)" fill="#aae5f2" font-size="12" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Share</tspan></text>
+            <g id="share-icon-2" data-name="share-icon" transform="translate(9.386 0)">
+              <path id="rect-2" data-name="rect" d="M12.963,14.537H0V2.5H4.63V3.889H1.389v9.259H11.574V8.981h1.389Z" transform="translate(0 -1.343)" fill="#aae5f2"/>
+              <path id="arrow-2" data-name="arrow" d="M17.685,4.167,13.055,0V2.315C9.861,2.454,7.5,3.518,7.5,8.333c1.111-1.481,2.361-2.361,5.555-2.315V8.333Z" transform="translate(-4.028)" fill="#aae5f2"/>
+            </g>
+          </g>
+          <path id="Trazado_934-2" data-name="Trazado 934" d="M1343,555.795v97.488" transform="translate(-1343 -555.795)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+          <text id="_2_days_ago.-2" data-name="2 days ago." transform="translate(44.531 59.128)" fill="#aae5f2" font-size="12" font-family="Lato-Italic, Lato" font-style="italic" letter-spacing="-0.01em"><tspan x="-26.679" y="0">2 days ago.</tspan></text>
+          <text id="Posted-2" data-name="Posted" transform="translate(46.531 45.128)" fill="#aae5f2" font-size="13" font-family="Lato-Regular, Lato" letter-spacing="-0.01em"><tspan x="-19.448" y="0">Posted</tspan></text>
+        </g>
+        <g id="Grupo_1958" data-name="Grupo 1958" transform="translate(-3706.122 -630.292)">
+          <path id="Trazado_1517" data-name="Trazado 1517" d="M3746.246,690.528c0-.179.015-.359,0-.536q-.267-2.743-.545-5.485a14.02,14.02,0,0,1,.325-3.9,10.134,10.134,0,0,1,3.792-6.081,13.477,13.477,0,0,1,7.8-3.218,9.371,9.371,0,0,1,3.29.459,13.746,13.746,0,0,1,7.741,5.579,10.59,10.59,0,0,1,1.3,3.586,17.87,17.87,0,0,1,.068,5.984c-.091,1.078-.249,2.151-.37,3.227a2.3,2.3,0,0,0,.025.4c.222-.365.41-.732.652-1.056a.909.909,0,0,1,.963-.388.642.642,0,0,1,.543.45,4.86,4.86,0,0,1,.21,1.336c-.033.982-.148,1.961-.227,2.941-.071.881-.074,1.773-.22,2.641a5.318,5.318,0,0,1-1.437,2.661,1.569,1.569,0,0,1-.631.375.422.422,0,0,0-.316.363c-.308,1.426-.614,2.853-.957,4.272a11.037,11.037,0,0,1-1.34,3.074.746.746,0,0,0-.09.437c.071.621.161,1.241.26,1.859a.415.415,0,0,0,.175.273c2.59,1.338,5.015,2.951,7.456,4.534,2.283,1.482,4.54,3,6.807,4.508.071.047.139.1.265.184H3734.2l-.079-.071a.418.418,0,0,0,.143-.031c4.275-2.862,8.536-5.746,12.973-8.358.444-.262.9-.5,1.365-.73a.373.373,0,0,0,.233-.334c.08-.621.181-1.238.265-1.858a.5.5,0,0,0-.04-.311,12.973,12.973,0,0,1-1.751-4.685c-.184-.955-.416-1.9-.64-2.847a.374.374,0,0,0-.2-.231,2.05,2.05,0,0,1-1.018-.745,6.136,6.136,0,0,1-1.287-3.549c-.024-1.21-.188-2.416-.257-3.626a9.588,9.588,0,0,1,.041-1.72.849.849,0,0,1,.793-.832.83.83,0,0,1,.764.32,10.955,10.955,0,0,1,.621,1.006,1.358,1.358,0,0,1,.056.124Z" fill="#aae5f2"/>
+        </g>
+        <path id="Trazado_1517-2" data-name="Trazado 1517" d="M6711.958,6325.439l18.123,10.238s-9.51,9.617-10.365,9.51-14,2.778-14,2.778h-6.412s-9.19-1.816-10.044-2.244-8.121-4.595-8.548-4.916-5.236-3.312-5.236-3.312l-.748-.748,12.375-6.929Z" transform="translate(-6651 -6246)" fill="#aae5f2"/>
+      </g>
+      <g id="Post_1-3" data-name="Post 1" transform="translate(23 600)">
+        <g id="Grupo_1796-3" data-name="Grupo 1796" transform="translate(0 0)">
+          <g id="Rectángulo_862-3" data-name="Rectángulo 862" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5V123a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V121a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+          <g id="Rectángulo_863-3" data-name="Rectángulo 863" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5v5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V8a1,1,0,0,1-1,1H2A1,1,0,0,1,1,8V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+        <text id="Taking_profit_here." data-name="Taking profit here." transform="translate(101 57)" fill="#aae5f2" font-size="38" font-family="Lato-Regular, Lato"><tspan x="0" y="38">Taking profit here.</tspan></text>
+        <g id="username-date-3" data-name="username-date" transform="translate(100.863 28)">
+          <text id="_Karikari" data-name="@Karikari" transform="translate(0.137 17)" fill="#aae5f2" font-size="17" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">@Karikari</tspan></text>
+        </g>
+      </g>
+      <g id="Post_1-4" data-name="Post 1" transform="translate(23 600)">
+        <g id="Elipse_206-3" data-name="Elipse 206" transform="translate(16 30)" fill="none" stroke="#aae5f2" stroke-width="3">
+          <circle cx="35.5" cy="35.5" r="35.5" stroke="none"/>
+          <circle cx="35.5" cy="35.5" r="37" fill="none"/>
+        </g>
+        <g id="Grupo_1798-3" data-name="Grupo 1798" transform="translate(508.47 16.738)">
+          <g id="share-action-3" data-name="share-action" transform="translate(92.531 32.461)">
+            <text id="Share-3" data-name="Share" transform="translate(0 26.801)" fill="#aae5f2" font-size="12" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Share</tspan></text>
+            <g id="share-icon-3" data-name="share-icon" transform="translate(9.386 0)">
+              <path id="rect-3" data-name="rect" d="M12.963,14.537H0V2.5H4.63V3.889H1.389v9.259H11.574V8.981h1.389Z" transform="translate(0 -1.343)" fill="#aae5f2"/>
+              <path id="arrow-3" data-name="arrow" d="M17.685,4.167,13.055,0V2.315C9.861,2.454,7.5,3.518,7.5,8.333c1.111-1.481,2.361-2.361,5.555-2.315V8.333Z" transform="translate(-4.028)" fill="#aae5f2"/>
+            </g>
+          </g>
+          <path id="Trazado_934-3" data-name="Trazado 934" d="M1343,555.795v97.488" transform="translate(-1343 -555.795)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+          <text id="_2_days_ago.-3" data-name="2 days ago." transform="translate(44.531 59.262)" fill="#aae5f2" font-size="12" font-family="Lato-Italic, Lato" font-style="italic" letter-spacing="-0.01em"><tspan x="-26.679" y="0">2 days ago.</tspan></text>
+          <text id="Posted-3" data-name="Posted" transform="translate(46.531 45.262)" fill="#aae5f2" font-size="13" font-family="Lato-Regular, Lato" letter-spacing="-0.01em"><tspan x="-19.448" y="0">Posted</tspan></text>
+        </g>
+        <path id="Sustracción_8" data-name="Sustracción 8" d="M-6569.391-5874.042h-42.451c-2.232-1.619-5.538-4.1-5.571-4.122a12.468,12.468,0,0,1,4.165-1.731l16.223-3.218c1.624-2.021,1.253-8.943,1.25-9.013a9.8,9.8,0,0,1-3.038-3.414,14.174,14.174,0,0,1-5.8,1.05,27.018,27.018,0,0,1-5.687-.643c1.829-.59,3.223-2.672,4.145-6.189a48.561,48.561,0,0,0,1.261-9.406,28.462,28.462,0,0,1,1.566-8.581,10.088,10.088,0,0,1,1.066-2.357,14.355,14.355,0,0,1,4.385-4.57c3.957-2.637,6.607-2.771,7.1-2.771.064,0,.1,0,.1,0a3.893,3.893,0,0,0-2.325-2.012c.157-.011.3-.015.428-.015a4.713,4.713,0,0,1,2.7.73,2.617,2.617,0,0,0-1.162-1.7c2.2.4,3.563,2.969,3.576,3a21.05,21.05,0,0,1,8.133,4.155,12.431,12.431,0,0,1,3.9,6.323,31.29,31.29,0,0,1,1.015,6.319c.058.717.089,1.165.112,1.492v.024c.063.921.063.921.418,3.472l.031.226c.1.7.221,1.587.376,2.713a15.238,15.238,0,0,0,2.739,7.244,7.242,7.242,0,0,0,2,1.9,12.326,12.326,0,0,1-4.5.76,22.738,22.738,0,0,1-6.854-1.167c-.308,1.186-2.745,3.114-2.77,3.133a17.547,17.547,0,0,0,1.564,9.384c.112.024,11.519,2.553,14.97,3.038a9.477,9.477,0,0,1,2.454.71l-4.322,4.511-.1.061-1.1.662Z" transform="translate(6641.227 5970)" fill="#aae5f2" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_1528" data-name="Trazado 1528" d="M6723.224,6624.874s2.223,2.64,1.806,2.64-6.946,4.584-6.946,4.584l-11.53,2.361h-6.945l-7.5-1.111a58,58,0,0,1-6.39-2.64c-.972-.694-7.779-5.834-7.779-5.834l16.53-1.944h20.7Z" transform="translate(-6651 -6532)" fill="#aae5f2"/>
+      </g>
+      <g id="Post_1-5" data-name="Post 1" transform="translate(23 171)">
+        <g id="Grupo_1796-4" data-name="Grupo 1796">
+          <g id="Rectángulo_862-4" data-name="Rectángulo 862" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5V124a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V122a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+          <g id="Rectángulo_863-4" data-name="Rectángulo 863" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5v5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V8a1,1,0,0,1-1,1H2A1,1,0,0,1,1,8V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+        <text id="Altcoins_are_so_bullish." data-name="Altcoins are so bullish." transform="translate(101 57)" fill="#aae5f2" font-size="38" font-family="Lato-Regular, Lato"><tspan x="0" y="38">Altcoins are so bullish.</tspan></text>
+        <g id="username-date-4" data-name="username-date" transform="translate(101 29)">
+          <text id="_DannaDona" data-name="@DannaDona" transform="translate(0 19)" fill="#aae5f2" font-size="19" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">@DannaDona</tspan></text>
+        </g>
+        <g id="Elipse_206-4" data-name="Elipse 206" transform="translate(16 31)" fill="none" stroke="#aae5f2" stroke-width="3">
+          <ellipse cx="35.5" cy="35" rx="35.5" ry="35" stroke="none"/>
+          <ellipse cx="35.5" cy="35" rx="37" ry="36.5" fill="none"/>
+        </g>
+        <g id="Grupo_1798-4" data-name="Grupo 1798" transform="translate(508.47 16.939)">
+          <g id="share-action-4" data-name="share-action" transform="translate(92.531 32.461)">
+            <text id="Share-4" data-name="Share" transform="translate(0 26.601)" fill="#aae5f2" font-size="12" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Share</tspan></text>
+            <g id="share-icon-4" data-name="share-icon" transform="translate(9.386 0)">
+              <path id="rect-4" data-name="rect" d="M12.963,14.537H0V2.5H4.63V3.889H1.389v9.259H11.574V8.981h1.389Z" transform="translate(0 -1.343)" fill="#aae5f2"/>
+              <path id="arrow-4" data-name="arrow" d="M17.685,4.167,13.055,0V2.315C9.861,2.454,7.5,3.518,7.5,8.333c1.111-1.481,2.361-2.361,5.555-2.315V8.333Z" transform="translate(-4.028)" fill="#aae5f2"/>
+            </g>
+          </g>
+          <path id="Trazado_934-4" data-name="Trazado 934" d="M1343,555.795v97.488" transform="translate(-1343 -555.795)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+          <text id="_2_days_ago.-4" data-name="2 days ago." transform="translate(44.531 59.062)" fill="#aae5f2" font-size="12" font-family="Lato-Italic, Lato" font-style="italic" letter-spacing="-0.01em"><tspan x="-26.679" y="0">2 days ago.</tspan></text>
+          <text id="Posted-4" data-name="Posted" transform="translate(46.531 45.062)" fill="#aae5f2" font-size="13" font-family="Lato-Regular, Lato" letter-spacing="-0.01em"><tspan x="-19.448" y="0">Posted</tspan></text>
+        </g>
+        <path id="Sustracción_6" data-name="Sustracción 6" d="M-6593.009-5864.845h-4.431a15.607,15.607,0,0,1-1.943-.123c-.094-.032-.487-.175-.992-.359-1.782-.65-5.491-2-5.815-2-.41,0-5.918-3.025-5.973-3.056l-4.862-3.056-1.7-1.446a9.173,9.173,0,0,1,1.872-1.728,78.469,78.469,0,0,1,6.787-4.1c.9-.5,1.919-1.07,2.9-1.642.552-.321,1.125-.628,1.679-.925a29.551,29.551,0,0,0,3.085-1.818,6.838,6.838,0,0,0,2-8.432,21.474,21.474,0,0,1-1.082-3.385l0-.012c-.158-.607-.319-1.231-.505-1.832a2.517,2.517,0,0,0-.57-.985c-.4-.41-.822-.778-1.269-1.168-.181-.159-.358-.313-.533-.47l-.642,1.414-.209-.031c.01-.162.011-.33.012-.492a3.659,3.659,0,0,1,.111-1.077c.049-.155.1-.313.156-.463a2.848,2.848,0,0,0,.04-2.629.955.955,0,0,1-.033-.6.316.316,0,0,1,.1-.193c.884-.517.7-1.135.5-1.789a4.084,4.084,0,0,1-.155-.635c-.061-.484-.135-.979-.207-1.457l-.015-.1c-.462-3.082-.94-6.268,1.25-9.11a20.459,20.459,0,0,1,2.57-2.613l.188-.169a1.679,1.679,0,0,0,.444-2.525,5.174,5.174,0,0,1-.625-5.145,5.566,5.566,0,0,1,4.688-2.778c2.4-.2,4.8-.225,6.62-.225h.546a6.177,6.177,0,0,1,4.453,2.139,6.172,6.172,0,0,1,1.725,4.625,3.354,3.354,0,0,1-1.021,1.872,1.546,1.546,0,0,0-.62,1.124,1.213,1.213,0,0,0,.568.852,6.171,6.171,0,0,1,2.407,5.436,24.008,24.008,0,0,0,.171,2.786l0,.019c.073.725.147,1.474.167,2.211a16.488,16.488,0,0,1-.279,2.907l-.025.16a4.7,4.7,0,0,1-.145.584c-.193.657-.375,1.278.465,1.873.205.146-.017,1.1-.254,1.662a1.935,1.935,0,0,0,.028,1.948,3.822,3.822,0,0,1,.145,2.221,2.759,2.759,0,0,1-.517,1.055c-.094.14-.191.284-.274.427a4.036,4.036,0,0,0,.46,5.3c.255.3.525.574.811.864l.05.051c.105.107.213.217.32.328a3.392,3.392,0,0,1-2.473-1.482c-.767-1.28-.627-3.44.439-6.8-1.315.059-1.32.078-1.556,1.111l-.005.024c-.017.075-.036.155-.056.241a26.346,26.346,0,0,1-1.519,4.96,6.753,6.753,0,0,0,1.8,8.23,33.923,33.923,0,0,0,3.971,2.328l.01.005c.705.372,1.434.755,2.133,1.159.677.39,1.37.781,2.04,1.16l.063.036.015.008c2,1.131,4.074,2.3,6.01,3.6a9.748,9.748,0,0,1,2.5,2.381l-.84,1.153-10.558,6.111-.021.006c-.8.241-7.785,2.356-8.174,2.356-.085,0-.33-.012-.639-.027l-.04,0c-.728-.035-1.947-.094-2.955-.094a6.67,6.67,0,0,0-1.646.124A5.494,5.494,0,0,1-6593.009-5864.845Z" transform="translate(6644.785 5966.76)" fill="#aae5f2" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Post_1-6" data-name="Post 1" transform="translate(23 457)">
+        <g id="Grupo_1796-5" data-name="Grupo 1796" transform="translate(0 0)">
+          <g id="Rectángulo_862-5" data-name="Rectángulo 862" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5V123a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V121a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+          <g id="Rectángulo_863-5" data-name="Rectángulo 863" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5v5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V8a1,1,0,0,1-1,1H2A1,1,0,0,1,1,8V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+        <text id="I_want_more_sats." data-name="I want more sats." transform="translate(101 57)" fill="#aae5f2" font-size="38" font-family="Lato-Regular, Lato"><tspan x="0" y="38">I want more sats.</tspan></text>
+        <g id="username-date-5" data-name="username-date" transform="translate(101 28)">
+          <text id="_Silkway2" data-name="@Silkway2" transform="translate(0 19)" fill="#aae5f2" font-size="19" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">@Silkway2</tspan></text>
+        </g>
+        <g id="Elipse_206-5" data-name="Elipse 206" transform="translate(16 31)" fill="none" stroke="#aae5f2" stroke-width="3">
+          <ellipse cx="35.5" cy="35" rx="35.5" ry="35" stroke="none"/>
+          <ellipse cx="35.5" cy="35" rx="37" ry="36.5" fill="none"/>
+        </g>
+        <path id="Sustracción_7" data-name="Sustracción 7" d="M-6572.663-5876.18H-6609.7l-.469-.2-5.636-4.857a11.058,11.058,0,0,1,2.566-3.794,13.359,13.359,0,0,1,4.186-2.666c1.261-.523,2.538-1.071,3.772-1.6l.066-.029,1.664-.711a1.9,1.9,0,0,0,1.275-1.511,2.167,2.167,0,0,1,2.191-1.926c-.044-.374-.084-.743-.124-1.1v-.017c-.084-.766-.164-1.489-.273-2.218-.1-.7-.226-1.407-.344-2.091v-.008c-.135-.784-.274-1.594-.39-2.4,0-.028-.007-.055-.011-.082l-.008-.059c-.068-.527-.123-.944-.877-.955a1.313,1.313,0,0,1-.915-.654,9.185,9.185,0,0,1-1.178-5.47,3.217,3.217,0,0,0-.172-1.411c-.39-1.175-.331-1.353.565-1.736l-.024-.283c-.035-.419-.07-.835-.1-1.25l-.021-.252c-.146-1.724-.284-3.353-.434-5.016a4.313,4.313,0,0,0-.22-1.067l-.018-.05c-.235-.664-.235-.664.558-.983l-.134-1.521.561-.115-1.172-1.5,1.569.413-.806-1.19,1.652-1.711-1.149-.354,4.048-1.389-.044-.2-1.031-.134,2.633-.72-.086-.38h-.773l-.031-.253,3.536-.245,0-.263-.982-.145,3.946-.958-.04-.255-1.037-.053-.044-.189c.114-.029.229-.066.331-.1a2.635,2.635,0,0,1,.709-.156l.221,0a6.19,6.19,0,0,1,3.751,1.137,5.35,5.35,0,0,0,.927.5l.013.006c.141.064.286.13.426.2l.171-.3-.868-.736.1-.2c.091.054.181.109.271.164l.055.034c.236.145.48.3.729.423.149.076.3.16.441.242a3.7,3.7,0,0,0,1.246.526,3.777,3.777,0,0,1,2.966,1.669,5.393,5.393,0,0,0,1.63,1.615l-.514-.893c2.154,1.08,1.917,2.74,1.687,4.346v.01c-.058.4-.117.824-.136,1.223l.355.126.562-.822.273.053c-.045.508-.088,1.008-.128,1.473l-.008.095c-.1,1.2-.211,2.448-.333,3.669-.137,1.377-.289,2.746-.436,4.069q-.091.815-.182,1.649a1.068,1.068,0,0,1,.76.533,1.626,1.626,0,0,1-.167,1.332,2.459,2.459,0,0,0-.144,1.3,9.361,9.361,0,0,1-1.176,5.474,1.211,1.211,0,0,1-.8.652c-.9,0-.96.534-1.035,1.151-.007.061-.015.122-.023.184-.13.967-.3,1.963-.452,2.842-.081.472-.164.959-.242,1.442l-.053.326,0,.014c-.093.571-.189,1.161-.234,1.745l0,.036c-.055.687-.1,1.28.921,1.511.507.114,1,1.041,1.143,1.638a1.994,1.994,0,0,0,1.295,1.506c.649.277,1.3.56,2.016.873l.008,0c1.3.567,2.647,1.155,3.986,1.691a12.508,12.508,0,0,1,5.819,5.143,5.634,5.634,0,0,1,.674,1.778l-2.072,2.468-3.684,1.9Z" transform="translate(6642.925 5973)" fill="#aae5f2" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_1525" data-name="Trazado 1525" d="M6676.122,6480.154l12.187,1.6,40.071-.641-7.48,5.236s-2.137,2.244-3.74,2.671-9.083,1.5-9.083,1.5-4.381,1.175-5.129,1.175-7.8-1.175-8.228-1.175-6.411-1.5-6.411-1.5l-5.129-2.671-6.091-4.061Z" transform="translate(-6651 -6389)" fill="#aae5f2"/>
+      </g>
+      <g id="Post_1-7" data-name="Post 1" transform="translate(-80.999 457)">
+        <g id="Grupo_1798-5" data-name="Grupo 1798" transform="translate(612.469 16.805)">
+          <g id="share-action-5" data-name="share-action" transform="translate(92.531 32.461)">
+            <text id="Share-5" data-name="Share" transform="translate(0 26.734)" fill="#aae5f2" font-size="12" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Share</tspan></text>
+            <g id="share-icon-5" data-name="share-icon" transform="translate(9.386 0)">
+              <path id="rect-5" data-name="rect" d="M12.963,14.537H0V2.5H4.63V3.889H1.389v9.259H11.574V8.981h1.389Z" transform="translate(0 -1.343)" fill="#aae5f2"/>
+              <path id="arrow-5" data-name="arrow" d="M17.685,4.167,13.055,0V2.315C9.861,2.454,7.5,3.518,7.5,8.333c1.111-1.481,2.361-2.361,5.555-2.315V8.333Z" transform="translate(-4.028)" fill="#aae5f2"/>
+            </g>
+          </g>
+          <path id="Trazado_934-5" data-name="Trazado 934" d="M1343,555.795v97.488" transform="translate(-1343 -555.795)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+          <text id="_2_days_ago.-5" data-name="2 days ago." transform="translate(44.531 59.195)" fill="#aae5f2" font-size="12" font-family="Lato-Italic, Lato" font-style="italic" letter-spacing="-0.01em"><tspan x="-26.679" y="0">2 days ago.</tspan></text>
+          <text id="Posted-5" data-name="Posted" transform="translate(46.531 45.195)" fill="#aae5f2" font-size="13" font-family="Lato-Regular, Lato" letter-spacing="-0.01em"><tspan x="-19.448" y="0">Posted</tspan></text>
+        </g>
+      </g>
+      <g id="Post_1-8" data-name="Post 1" transform="translate(23 743)">
+        <g id="Grupo_1796-6" data-name="Grupo 1796" transform="translate(0 0)">
+          <g id="Rectángulo_862-6" data-name="Rectángulo 862" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5V123a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V121a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+          <g id="Rectángulo_863-6" data-name="Rectángulo 863" fill="none" stroke="#aae5f2" stroke-width="2">
+            <path d="M5,0H643a5,5,0,0,1,5,5v5a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H643a4,4,0,0,1,4,4V8a1,1,0,0,1-1,1H2A1,1,0,0,1,1,8V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+        <text id="LFG_" data-name="LFG!!!" transform="translate(101 57)" fill="#aae5f2" font-size="38" font-family="Lato-Regular, Lato"><tspan x="0" y="38">LFG!!!</tspan></text>
+        <g id="username-date-6" data-name="username-date" transform="translate(101 28)">
+          <text id="_ChanJackie" data-name="@ChanJackie" transform="translate(0 19)" fill="#aae5f2" font-size="19" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">@ChanJackie</tspan></text>
+        </g>
+        <g id="Elipse_206-6" data-name="Elipse 206" transform="translate(16 30)" fill="none" stroke="#aae5f2" stroke-width="3">
+          <circle cx="35.5" cy="35.5" r="35.5" stroke="none"/>
+          <circle cx="35.5" cy="35.5" r="37" fill="none"/>
+        </g>
+        <g id="Grupo_1798-6" data-name="Grupo 1798" transform="translate(508.47 16.671)">
+          <g id="share-action-6" data-name="share-action" transform="translate(92.531 32.461)">
+            <text id="Share-6" data-name="Share" transform="translate(0 26.868)" fill="#aae5f2" font-size="12" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Share</tspan></text>
+            <g id="share-icon-6" data-name="share-icon" transform="translate(9.386 0)">
+              <path id="rect-6" data-name="rect" d="M12.963,14.537H0V2.5H4.63V3.889H1.389v9.259H11.574V8.981h1.389Z" transform="translate(0 -1.343)" fill="#aae5f2"/>
+              <path id="arrow-6" data-name="arrow" d="M17.685,4.167,13.055,0V2.315C9.861,2.454,7.5,3.518,7.5,8.333c1.111-1.481,2.361-2.361,5.555-2.315V8.333Z" transform="translate(-4.028)" fill="#aae5f2"/>
+            </g>
+          </g>
+          <path id="Trazado_934-6" data-name="Trazado 934" d="M1343,555.795v97.488" transform="translate(-1343 -555.795)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+          <text id="_2_days_ago.-6" data-name="2 days ago." transform="translate(44.531 59.329)" fill="#aae5f2" font-size="12" font-family="Lato-Italic, Lato" font-style="italic" letter-spacing="-0.01em"><tspan x="-26.679" y="0">2 days ago.</tspan></text>
+          <text id="Posted-6" data-name="Posted" transform="translate(46.531 45.329)" fill="#aae5f2" font-size="13" font-family="Lato-Regular, Lato" letter-spacing="-0.01em"><tspan x="-19.448" y="0">Posted</tspan></text>
+        </g>
+        <path id="Trazado_1529" data-name="Trazado 1529" d="M3922.979,750.629c-.331,1.651-.623,3.311-1.012,4.948a5.352,5.352,0,0,1-.8,1.746,1.629,1.629,0,0,0,.4,2.521,6.841,6.841,0,0,1,1.007,1.506c.293.418.549.978.963,1.175q2.749,1.305,5.588,2.421c2.326.916,3.855,2.717,5.31,4.609a3.005,3.005,0,0,1,.44,1.145c.324,1.4.613,2.813.934,4.307h-45.9c.2-4.56,2.119-8,6.323-9.954,1.841-.855,3.732-1.6,5.6-2.389a1.76,1.76,0,0,0,1.216-1.377,2.016,2.016,0,0,1,1.653-1.745,3.039,3.039,0,0,0-.561-2.616,6.364,6.364,0,0,1-.787-2.417c-.287-1.271-.494-2.562-.733-3.839-1.491-.364-1.487-.439-1.567-2.015-.093-1.847-.31-3.689-.458-5.533-.057-.71.027-1.322,1.233-.786a36.831,36.831,0,0,1-.659-4.14,38.022,38.022,0,0,1,.23-4.135,17.27,17.27,0,0,1,.186-2.725c.617-2.705,2.491-4.249,5.073-5.185l-.408-.509a15.046,15.046,0,0,1,2.415-1.09c1.119-.293,2.3-.357,3.443-.552.447-.075.952-.446,1.306-.324a8.957,8.957,0,0,1,3.089,1.447,4.685,4.685,0,0,0,3.825,1.568.9.9,0,0,1,.306.042c1.672.425,3.816,3.213,3.77,4.962-.031,1.171-.143,2.325-.1,3.516a68.672,68.672,0,0,1-.373,6.972c.95-.312,1.133.2,1.065.982-.184,2.151-.288,4.314-.585,6.448-.062.45-.81.8-1.243,1.2Z" transform="translate(-3860.906 -678.652)" fill="#aae5f2"/>
+        <path id="Trazado_1530" data-name="Trazado 1530" d="M6713.233,6767.965l9.168,2.361s-1.389,3.89-2.917,3.89-8.613,2.362-10,2.362-6.668-.417-7.084,0-6.945.556-8.057,0-6.53-2.223-7.641-2.917a45.129,45.129,0,0,1-4.445-3.334c0-.139,4.167-5.695,6.529-5.834S6713.233,6767.965,6713.233,6767.965Z" transform="translate(-6651 -6675)" fill="#aae5f2"/>
+      </g>
+    </g>
+  </g>
+</svg>

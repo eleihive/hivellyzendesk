@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="681" height="278" viewBox="0 0 681 278">
+  <defs>
+    <clipPath id="clip-SocialNetworks">
+      <rect width="681" height="278"/>
+    </clipPath>
+  </defs>
+  <g id="SocialNetworks" clip-path="url(#clip-SocialNetworks)">
+    <g id="Grupo_2072" data-name="Grupo 2072" transform="translate(210 -235)">
+      <g id="Grupo_1955" data-name="Grupo 1955" transform="translate(74.161 295.263)">
+        <rect id="Rectángulo_362" data-name="Rectángulo 362" width="120" height="120" transform="translate(-0.161 -0.263)" fill="none"/>
+        <g id="Icon_feather-facebook" data-name="Icon feather-facebook" transform="translate(32.577 17.546)">
+          <path id="Trazado_8" data-name="Trazado 8" d="M-1865.737-1455.436h-11.592a19.325,19.325,0,0,0-19.32,19.331v11.6h-11.591v15.465h11.591v30.928h15.455v-30.928h11.593l3.864-15.465h-15.456v-11.6a3.865,3.865,0,0,1,3.865-3.867h11.592Z" transform="translate(1913.418 1460.614)" fill="none"/>
+          <path id="Trazado_9" data-name="Trazado 9" d="M-1874.138-1452.279a19.342,19.342,0,0,0-19.341,19.341v11.6h-11.6v15.472h11.6v30.945h15.472v-30.945h11.605l3.868-15.472h-15.473v-11.6a3.868,3.868,0,0,1,3.868-3.868h11.6v-15.472h-11.6m0-5.157h16.762v25.787h-15.472v5.157h16.922l-1.6,6.409-3.868,15.472-.975,3.907h-10.475v30.944h-25.788V-1400.7h-11.6v-25.788h11.6v-6.446A24.525,24.525,0,0,1-1874.138-1457.436Z" transform="translate(1910.24 1457.436)" fill="#aae5f2"/>
+        </g>
+      </g>
+      <g id="Polígono_3" data-name="Polígono 3" transform="translate(100.599 257.514) rotate(30)" fill="none">
+        <path d="M116.25,0,155,67.5,116.25,135H38.75L0,67.5,38.75,0Z" stroke="none"/>
+        <path d="M 41.06600189208984 4 L 4.612274169921875 67.5 L 41.06597900390625 131 L 113.9340362548828 131 L 150.3877258300781 67.5 L 113.9340362548828 4 L 41.06600189208984 4 M 38.75002288818359 0 L 116.2500228881836 0 L 155 67.5 L 116.2500228881836 135 L 38.75 135 L 0 67.5 L 38.75002288818359 0 Z" stroke="none" fill="#aae5f2"/>
+      </g>
+    </g>
+    <g id="Grupo_2074" data-name="Grupo 2074" transform="translate(165 -235)">
+      <g id="Grupo_1956" data-name="Grupo 1956" transform="translate(306.104 295.264)">
+        <g id="Icon_feather-twitter" data-name="Icon feather-twitter" transform="translate(22.807 22.048)">
+          <path id="Trazado_1" data-name="Trazado 1" d="M-275.207,25.173A56.268,56.268,0,0,1-302.5,17.865l-7.9-3.961c6.541.264,22.5-2.548,28.339-5.477C-296,.378-299.544-11.344-299.945-20.165a46.41,46.41,0,0,1,3.364-19.121l2.038-4.587,2.885,4.109a35.107,35.107,0,0,0,26.939,14.915v-.689a18.771,18.771,0,0,1,6.469-14.418,18.852,18.852,0,0,1,25.221.461,35.977,35.977,0,0,0,8.755-4.526l6.194-4.369-1.793,7.364a30.353,30.353,0,0,1-7.164,13.386,18.806,18.806,0,0,1,.111,1.985c0,19.3-8.532,35.381-23.406,44.135A48.809,48.809,0,0,1-275.207,25.173Zm-14.622-7.991c12.606,3.984,25.736,2.8,36.612-3.6,13.094-7.705,20.6-22,20.6-39.228a13.161,13.161,0,0,0-.234-2.429l-.284-1.49,1.08-1.065a24.659,24.659,0,0,0,3.656-4.581,41.83,41.83,0,0,1-4.623,1.694l-1.759.53-1.206-1.386a13.154,13.154,0,0,0-18.537-1.291,13.117,13.117,0,0,0-4.515,10.09V-19.2l-2.769.072a40.758,40.758,0,0,1-31.153-13.2c-2.37,8.852-4.415,28.028,17.964,37.974l4.673,2.076L-274.55,10.6A44.573,44.573,0,0,1-289.828,17.182Z" transform="translate(301.181 48.391)" fill="#aae5f2"/>
+        </g>
+        <rect id="Rectángulo_364" data-name="Rectángulo 364" width="119.735" height="118.024" transform="translate(0 0)" fill="none"/>
+      </g>
+      <g id="Polígono_4" data-name="Polígono 4" transform="translate(332.207 257.854) rotate(30)" fill="none">
+        <path d="M116.25,0,155,67.109l-38.75,67.109H38.75L0,67.109,38.75,0Z" stroke="none"/>
+        <path d="M 41.05928802490234 4.000015258789063 L 4.618942260742188 67.10894012451172 L 41.05926513671875 130.2178649902344 L 113.9407348632813 130.2178649902344 L 150.3810577392578 67.10894012451172 L 113.9407348632813 4.000015258789063 L 41.05928802490234 4.000015258789063 M 38.75002288818359 1.52587890625e-05 L 116.25 1.52587890625e-05 L 155 67.10894012451172 L 116.25 134.2178649902344 L 38.75 134.2178649902344 L 0 67.10894012451172 L 38.75002288818359 1.52587890625e-05 Z" stroke="none" fill="#aae5f2"/>
+      </g>
+    </g>
+    <g id="Grupo_2073" data-name="Grupo 2073" transform="translate(-95 -26)">
+      <g id="Grupo_1957" data-name="Grupo 1957" transform="translate(189.58 85.635)">
+        <rect id="Rectángulo_867" data-name="Rectángulo 867" width="119" height="119" transform="translate(0.42 0.365)" fill="none"/>
+        <g id="Grupo_1953" data-name="Grupo 1953" transform="translate(15.024 15.02)">
+          <g id="Grupo_1952" data-name="Grupo 1952" transform="translate(0)">
+            <g id="Grupo_1949" data-name="Grupo 1949">
+              <g id="Grupo_1948" data-name="Grupo 1948">
+                <path id="Trazado_1515" data-name="Trazado 1515" d="M3311.454,1960.405l25.881-26a8.6,8.6,0,0,0,2.208-8.308l-5.977-22.106c0-.005-1.332-4.965-5.386-.892l-5.857,5.884a9.05,9.05,0,0,0-2.04,8.209l.838,3.1.134.495.653,2.418a5.137,5.137,0,0,1-1.317,4.962l-15.453,15.521a5.135,5.135,0,0,1-4.956,1.339l-21.167-5.622a5.137,5.137,0,0,1-3.639-3.623l-5.714-21.142a5.136,5.136,0,0,1,1.317-4.962l15.453-15.521a5.134,5.134,0,0,1,4.956-1.339l5.792,1.54c5.238,1.393,9.467-2.758,9.469-2.763l5.336-5.359.054-.056c.45-.461,3.5-3.776-.886-4.941l-22.734-6.037a8.6,8.6,0,0,0-8.3,2.242l-25.876,25.994a8.591,8.591,0,0,0-2.206,8.308l9.572,35.412a8.594,8.594,0,0,0,6.092,6.066l35.455,9.416A8.6,8.6,0,0,0,3311.454,1960.405Z" transform="translate(-3251.738 -1874.921)" fill="none" stroke="#aae5f2" stroke-width="4"/>
+              </g>
+            </g>
+            <g id="Grupo_1951" data-name="Grupo 1951" transform="translate(44.201 5.063)">
+              <g id="Grupo_1950" data-name="Grupo 1950">
+                <path id="Trazado_1516" data-name="Trazado 1516" d="M3328.836,1909.42a4,4,0,0,0,.012,5.659l6.02,5.994a4,4,0,0,0,5.658-.012l1.653-1.661,5.879-5.9.824-.827,16.167-16.237a4.012,4.012,0,0,0-.013-5.659l-2.561-2.55-3.459-3.444a4.012,4.012,0,0,0-5.659.012l-22.866,22.965Z" transform="translate(-3327.669 -1883.618)" fill="none" stroke="#aae5f2" stroke-width="4"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Polígono_5" data-name="Polígono 5" transform="translate(216.207 48.854) rotate(30)" fill="none">
+        <path d="M116.25,0,155,67.109l-38.75,67.109H38.75L0,67.109,38.75,0Z" stroke="none"/>
+        <path d="M 41.05928802490234 4.000015258789063 L 4.618942260742188 67.10894012451172 L 41.05926513671875 130.2178649902344 L 113.9407348632813 130.2178649902344 L 150.3810577392578 67.10894012451172 L 113.9407348632813 4.000015258789063 L 41.05928802490234 4.000015258789063 M 38.75002288818359 1.52587890625e-05 L 116.25 1.52587890625e-05 L 155 67.10894012451172 L 116.25 134.2178649902344 L 38.75 134.2178649902344 L 0 67.10894012451172 L 38.75002288818359 1.52587890625e-05 Z" stroke="none" fill="#aae5f2"/>
+      </g>
+    </g>
+    <path id="Trazado_1989" data-name="Trazado 1989" d="M7376.236,7288H6751.165" transform="translate(-6723 -7063)" fill="none" stroke="#aae5f2" stroke-width="4"/>
+    <path id="Trazado_1990" data-name="Trazado 1990" d="M6877.966,7300.432V7269.3" transform="translate(-6723 -7075.432)" fill="none" stroke="#aae5f2" stroke-width="4"/>
+    <path id="Trazado_1991" data-name="Trazado 1991" d="M7066.966,7300.085v-31.129" transform="translate(-6723 -7075.085)" fill="none" stroke="#aae5f2" stroke-width="4"/>
+    <path id="Trazado_1992" data-name="Trazado 1992" d="M7253.966,7300.431V7269.3" transform="translate(-6723 -7075.431)" fill="none" stroke="#aae5f2" stroke-width="4"/>
+    <text id="Hivelly_Account" data-name="Hivelly Account" transform="translate(155 251)" fill="#aae5f2" font-size="20" font-family="Roboto-Regular, Roboto" letter-spacing="-0.01em"><tspan x="-67.35" y="0">Hivelly Account</tspan></text>
+    <text id="Facebook" transform="translate(301 251)" fill="#aae5f2" font-size="20" font-family="Roboto-Regular, Roboto" letter-spacing="-0.01em"><tspan x="0" y="0">Facebook</tspan></text>
+    <text id="Twitter" transform="translate(531 251)" fill="#aae5f2" font-size="20" font-family="Roboto-Regular, Roboto" letter-spacing="-0.01em"><tspan x="-30.245" y="0">Twitter</tspan></text>
+  </g>
+</svg>
