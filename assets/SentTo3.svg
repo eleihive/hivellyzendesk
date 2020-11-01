@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="391" height="133" viewBox="0 0 391 133">
+  <defs>
+    <clipPath id="clip-SentTo3">
+      <rect width="391" height="133"/>
+    </clipPath>
+  </defs>
+  <g id="SentTo3" clip-path="url(#clip-SentTo3)">
+    <rect width="391" height="133" fill="rgba(255,255,255,0)"/>
+    <g id="Grupo_1796" data-name="Grupo 1796" transform="translate(16.272 18.518)">
+      <g id="Rectángulo_512" data-name="Rectángulo 512" transform="translate(-0.272 3.482)" fill="none" stroke="#aae5f2" stroke-width="2">
+        <rect width="359" height="90" stroke="none"/>
+        <rect x="1" y="1" width="357" height="88" fill="none"/>
+      </g>
+      <text id="Initial_Balance_sent:" data-name="Initial Balance sent:" transform="translate(8.728 36.482)" fill="#aae5f2" font-size="19" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Initial Balance sent:</tspan></text>
+      <text id="_0.4_BTC" data-name="0.4 BTC" transform="translate(263.728 35.482)" fill="#aae5f2" font-size="25" font-family="Lato-Regular, Lato"><tspan x="0" y="0">0.4 BTC</tspan></text>
+      <text id="Performance_for_this_session:" data-name="Performance for this session:" transform="translate(8.728 73.482)" fill="#aae5f2" font-size="19" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Performance for this session:</tspan></text>
+      <text id="_23.15_" data-name="+23.15%" transform="translate(349.97 73.482)" fill="#6ed346" font-size="25" font-family="Lato-Regular, Lato"><tspan x="-97.45" y="0">+23.15%</tspan></text>
+    </g>
+  </g>
+</svg>

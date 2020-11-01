@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <clipPath id="clip-Trade_Icon">
+      <rect width="29" height="29"/>
+    </clipPath>
+  </defs>
+  <g id="Trade_Icon" data-name="Trade Icon" clip-path="url(#clip-Trade_Icon)">
+    <path id="Sustracción_65" data-name="Sustracción 65" d="M24,29.5H6A5.506,5.506,0,0,1,.5,24V6A5.506,5.506,0,0,1,6,.5H24A5.506,5.506,0,0,1,29.5,6V24A5.506,5.506,0,0,1,24,29.5ZM5.064,16.991l4.64,4.64a6.171,6.171,0,0,0,1.1.161c.174,0,.284-.027.328-.079a.1.1,0,0,0,.02-.082A20.972,20.972,0,0,0,9.7,19.161h15.25v-2.17H5.064Zm0-5.932v2.17h19.89l-4.64-4.64a6.182,6.182,0,0,0-1.1-.16c-.173,0-.283.026-.327.078a.1.1,0,0,0-.02.082,20.715,20.715,0,0,0,1.445,2.47Z" transform="translate(-0.5 -0.5)" fill="#fff"/>
+  </g>
+</svg>
