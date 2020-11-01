@@ -1592,6 +1592,8 @@ border-top-style: solid;
 }
 
 .blocks-item-description {
+  
+  height:100px;
   font-weight: 300;
   margin: 0;
   padding-left: 15px;
