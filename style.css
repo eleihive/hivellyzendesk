@@ -1458,7 +1458,7 @@ user-info {
 /* Used in Homepage#categories and Community#topics */
 .blocks-list {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: center;
   list-style: none;
   padding: 0;
@@ -1621,7 +1621,7 @@ border-top-style: solid;
 
 
 .categories.blocks{
-  height: 20vh;
+  height: auto;
      max-width: 1100px;
     align-content: center;
     align-items: center;
@@ -2193,41 +2193,7 @@ border-top-style: solid;
   
   padding: 30px 0;
 }
-@media screen and (max-width: 718px){
-  
-  .community,
-.activity {
-  
-  padding: 30px 0;
-  margin-top: 88%;
-  
-}
-  
-}
 
-@media screen and (max-width: 500px){
-  
-  .community,
-.activity {
-  
-  
-  margin-top: 88%;
-  
-}
-  
-}
-
-@media screen and (max-width: 445px){
-  
-  .community,
-.activity {
-  
-  
-  margin-top: 130%;
-  
-}
-  
-}
 
 
 
