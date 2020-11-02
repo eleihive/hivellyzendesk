@@ -5813,18 +5813,8 @@ html[dir="rtl"] .notification-left-aligned {
   align-items: center;
   }
 
-@media(max-width: 768px){
-  .evoko-logo-fav{display:none}
-}
 
-.evoko-logo-full{
-  display:none
-}
 
-@media(max-width: 768px){
-  .evoko-logo-full{
-    display:none}
-}
 
 
 .containerBadges {
