@@ -363,18 +363,18 @@ textarea:focus {
 }
 
 .container {
-  
-  max-width: 1160px;
-  flex-direction: column;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 100vw;
-  height: auto;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin: 0 auto;
+    overflow: hidden;
+    max-width: 1160px;
+    flex-direction: column;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin: 0 auto;
     margin-right: auto;
     margin-left: auto;
     -webkit-box-pack: center;
@@ -389,10 +389,9 @@ textarea:focus {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-   background-color: #1f1340;
-  padding-left:20px;
-  padding-right:20px;
-   
+    background-color: #1f1340;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .containerdos {
