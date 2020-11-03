@@ -5756,12 +5756,12 @@ html[dir="rtl"] .notification-left-aligned {
 }
 
 .wrapperUno {
- display: -webkit-box;
+    display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    width: 100vw;
-    
+    width: 100%;
+    overflow: hidden;
     max-width: 1920px;
     margin-right: auto;
     margin-left: auto;
@@ -5777,7 +5777,7 @@ html[dir="rtl"] .notification-left-aligned {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-  height: 65vh;
+    height: 65vh;
 }
 
 @media screen and (max-height:1013px){
@@ -5798,6 +5798,7 @@ html[dir="rtl"] .notification-left-aligned {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  overflow: hidden;
   width: 90%;
   height: 90%;
   margin-right: auto;
@@ -5908,11 +5909,13 @@ badgeimage {
 
 .div-block-93 {
   
+  
+  overflow: hidden;
   width: 100%;
   height: 30px;
   max-width: 2650px;
-  
- 	margin-right: auto;
+  overflow: hidden;
+  margin-right: auto;
   margin-left: auto;
   background-color: #fff;
   background-image: linear-gradient(267deg, #d327ec, #d327ec 55%, #c0a634);
@@ -5943,6 +5946,7 @@ badgeimage {
 }
   }
   .HelpContainer{
+    overflow: hidden;
     margin-top: 20px;
     width: 100%;
     padding-right: 20px;
