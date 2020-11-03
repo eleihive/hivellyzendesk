@@ -1721,6 +1721,7 @@ border-top-style: solid;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    overflow: hidden;
     width: 100vw;
     height: 100%;
     max-height: none;
@@ -6048,7 +6049,7 @@ cardsimage{
   margin-right:auto;
   margin-left:auto;
   height:65vh;
-	overflow: visible;
+
 }
 
 @media screen and (max-width: 650px){
