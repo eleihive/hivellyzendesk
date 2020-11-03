@@ -1655,6 +1655,7 @@ border-top-style: solid;
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
+  width: 100%;
   height: auto;
   max-height: none;
   margin-right: auto;
