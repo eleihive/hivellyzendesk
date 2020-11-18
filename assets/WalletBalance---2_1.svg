@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="391" height="358" viewBox="0 0 391 358">
+  <defs>
+    <clipPath id="clip-WalletBalance_-_2">
+      <rect width="391" height="358"/>
+    </clipPath>
+  </defs>
+  <g id="WalletBalance_-_2" data-name="WalletBalance - 2" clip-path="url(#clip-WalletBalance_-_2)">
+    <rect width="391" height="358" fill="rgba(255,255,255,0)"/>
+    <g id="Grupo_1946" data-name="Grupo 1946" transform="translate(-521.007 -739.976)">
+      <g id="Grupo_1940" data-name="Grupo 1940" transform="translate(543.026 1026.58)">
+        <g id="Rectángulo_815" data-name="Rectángulo 815" transform="translate(-0.018 0.396)" fill="none" stroke="#aae5f2" stroke-width="2">
+          <rect width="348" height="43" stroke="none"/>
+          <rect x="1" y="1" width="346" height="41" fill="none"/>
+        </g>
+        <path id="Trazado_912" data-name="Trazado 912" d="M-22492.2-10043.5h273.3" transform="translate(22529.822 10064.743)" fill="none" stroke="#aae5f2" stroke-linecap="round" stroke-width="4"/>
+        <circle id="Elipse_206" data-name="Elipse 206" cx="10.875" cy="10.875" r="10.875" transform="translate(163.12 10.454)" fill="#aae5f2"/>
+        <g id="Grupo_1701" data-name="Grupo 1701" transform="translate(324.325 13.871)">
+          <rect id="Rectángulo_819" data-name="Rectángulo 819" width="18.124" height="4.028" rx="2" transform="translate(11.076) rotate(90)" fill="#aae5f2"/>
+          <rect id="Rectángulo_820" data-name="Rectángulo 820" width="18.124" height="4.028" rx="2" transform="translate(18.124 11.076) rotate(180)" fill="#aae5f2"/>
+        </g>
+        <g id="Grupo_1702" data-name="Grupo 1702" transform="translate(6.041 19.22)">
+          <rect id="Rectángulo_818" data-name="Rectángulo 818" width="18.124" height="4.183" rx="2" fill="#aae5f2"/>
+        </g>
+      </g>
+      <path id="Trazado_1513" data-name="Trazado 1513" d="M8723,4575.976h347.989" transform="translate(-8179.974 -3644.88)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+      <path id="Trazado_1514" data-name="Trazado 1514" d="M8723,4575.976h347.989" transform="translate(-8179.974 -3808)" fill="none" stroke="#aae5f2" stroke-width="2"/>
+      <g id="Grupo_1943" data-name="Grupo 1943" transform="translate(543.026 956.499)">
+        <g id="Rectángulo_487" data-name="Rectángulo 487" transform="translate(-0.018 1.477)" fill="none" stroke="#aae5f2" stroke-width="2">
+          <rect width="348" height="43" stroke="none"/>
+          <rect x="1" y="1" width="346" height="41" fill="none"/>
+        </g>
+        <text id="_0.4_BTC" data-name="0.4 BTC" transform="translate(173.981 36.477)" fill="#aae5f2" font-size="34" font-family="Roboto-Regular, Roboto"><tspan x="-59.201" y="0">0.4 BTC</tspan></text>
+      </g>
+      <text id="_5.6_BTC" data-name="5.6 BTC" transform="translate(717.007 921.976)" fill="#aae5f2" font-size="34" font-family="Roboto-Regular, Roboto"><tspan x="-59.201" y="0">5.6 BTC</tspan></text>
+      <g id="Grupo_1944" data-name="Grupo 1944" transform="translate(542.876 779.341)">
+        <path id="Sustracción_4" data-name="Sustracción 4" d="M-7222.411-4871.8h-97.712a17.39,17.39,0,0,1-11.134-3.83,11.992,11.992,0,0,1-4.611-9.249v-65.406a12,12,0,0,1,4.611-9.25,17.39,17.39,0,0,1,11.134-3.831h90.528a13.039,13.039,0,0,1,8.35,2.874,9,9,0,0,1,3.458,6.938c0,1.8-1.766,3.27-3.936,3.27h-94.465c-2.17,0-3.936,1.467-3.936,3.27s1.766,3.271,3.936,3.271h93.776c6.891,0,12.5,4.4,12.5,9.811v52.323C-7209.914-4876.2-7215.52-4871.8-7222.411-4871.8Zm-72.26-19.931a1.65,1.65,0,0,0-1.648,1.647v3.294a1.65,1.65,0,0,0,1.648,1.647h42.827a1.649,1.649,0,0,0,1.646-1.647v-3.294a1.649,1.649,0,0,0-1.646-1.647Zm-5.8-23.142h0l7.443,19.848h39.531l7.443-19.848a5.215,5.215,0,0,0,.793.081,4.947,4.947,0,0,0,4.941-4.941,4.947,4.947,0,0,0-4.941-4.941,4.948,4.948,0,0,0-4.943,4.941,4.89,4.89,0,0,0,.453,2.04l-7.452,4.467a3.3,3.3,0,0,1-1.69.469,3.3,3.3,0,0,1-2.859-1.662l-8.392-14.681a4.924,4.924,0,0,0,1.823-3.809,4.947,4.947,0,0,0-4.941-4.941,4.947,4.947,0,0,0-4.941,4.941,4.923,4.923,0,0,0,1.822,3.809l-8.392,14.681a3.3,3.3,0,0,1-2.864,1.662,3.264,3.264,0,0,1-1.685-.469l-7.444-4.467a4.951,4.951,0,0,0,.453-2.04,4.947,4.947,0,0,0-4.941-4.941,4.953,4.953,0,0,0-4.953,4.941,4.947,4.947,0,0,0,4.941,4.941,5.162,5.162,0,0,0,.792-.081Zm66.936.562c-4.34,0-7.871,2.934-7.871,6.541s3.531,6.54,7.871,6.54,7.873-2.934,7.873-6.54S-7229.19-4914.312-7233.531-4914.312Z" transform="translate(7335.868 4963.366)" fill="#aae5f2"/>
+      </g>
+      <text id="Regular_Wallet_Available_balance" data-name="Regular Wallet
+Available balance" transform="translate(682.007 817.976)" fill="#aae5f2" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Regular Wallet</tspan><tspan x="0" y="32">Available balance</tspan></text>
+    </g>
+  </g>
+</svg>

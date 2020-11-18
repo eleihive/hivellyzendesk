@@ -1,0 +1,144 @@
+<h1 class="visibility-hidden">{{ help_center.name }}</h1>
+
+<div class="section_external">
+      <div id="home" class="section-5 homemaster">
+        <div class="containertocenter">
+          <div class="hero-inner"><h1 class="headertitle">Hello! How can we help you today?</h1>
+    {{search submit=true instant=settings.instant_search class='searchhome'}}
+  </div>
+          
+          
+        
+          
+         
+        </div>
+      </div>
+    </div>
+
+
+<div class="div-block-93"></div>
+<div class="wrapperUno" >
+  
+  <div class="HelpContainer" style="">
+    
+		<div class="containerBadges">
+      
+      <div class="badges" style="margin-left: 15px; margin-right: 15px;margin-top:20px;">
+        <div class="cardsimage">
+          <img src="https://theme.zdassets.com/theme_assets/10335325/d25634f8eb5c3e01cadd68d63500c1bbdbda8ddb.png" loading="laze" class="badgeimage" width="auto" height="auto" style="overflow: visible;width:300px;">
+          <h1 class="headingtext" style="font-size: 24px;font-weight:700;">FAQ</h1>
+          
+          <a href="https://hivellyhelp.zendesk.com/hc/en-us/sections/360004886160-Frequently-Asked-Questions" target="_blank" class="badgesbutton w-button">Go to FAQ Page</a>
+          </div>
+      </div>
+      
+      <div class="badges" style="margin-left: 15px; margin-right: 15px;" >
+        <div class="cardsimage" >
+          <img src="https://theme.zdassets.com/theme_assets/10335325/f175830fae4117f835640fabb91f8cff58a2bc37.png" loading="laze" class="badgeimage" >
+          <h1 class="headingtext" style="font-size: 24px;font-weight:700;">SUPPORT</h1>
+         
+          <a href="https://hivellyhelp.zendesk.com/hc/en-us/requests/new" target="_blank" class="badgesbutton w-button">Contact Support</a>
+          </div>
+      </div>
+      
+            <div class="badges" style="margin-left: 15px; margin-right: 15px;">
+        <div class="cardsimage" style="position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;">
+          <img src="https://theme.zdassets.com/theme_assets/10335325/674850560dd68e0cac738ae6694be29bba7e47cf.png" loading="laze" class="badgetutorials"  >
+          <h1 class="headingtext" style="font-size: 24px;font-weight:700;">TUTORIALS</h1>
+         
+          <a href="https://hivellyhelp.zendesk.com/hc/en-us/sections/360004928479-Tutorials" target="_blank" class="badgesbutton w-button">Go to Tutorials Page</a>
+          </div>
+      </div>
+      
+      
+		</div>  
+	</div>
+</div>
+<div class="div-block-93"></div>
+<section class="categories blocks">
+      <ul class="blocks-list">
+        {{#each categories}}
+          {{#if ../has_multiple_categories}}
+            <li class="blocks-item">
+              <a href='{{url}}' class="blocks-item-link">
+                <span class="blocks-item-title">{{name}}</span>
+                <span class="blocks-item-description">{{excerpt description}}</span>
+              </a>
+            </li>
+          {{else}}
+            {{#each sections}}
+              <li class="blocks-item">
+                <a href='{{url}}' class="blocks-item-link">
+                  <span class="blocks-item-title">
+                    {{name}}
+                  </span>
+                  <span class="blocks-item-description">{{excerpt description}}</span>
+                </a>
+              </li>
+            {{/each}}
+          {{/if}}
+        {{/each}}
+      </ul>
+      {{pagination}}
+    </section>
+
+
+<div class="container">
+  
+
+
+    
+    
+    {{#if promoted_articles}}
+      <section class="articles">
+        <h2>{{t 'promoted_articles'}}</h2>
+        <ul class="article-list promoted-articles">
+          {{#each promoted_articles}}
+            <li class="promoted-articles-item">
+                <a href="{{url}}">
+                  {{title}}
+
+                  {{#if internal}}
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-lock" title="{{t 'internal'}}">
+                      <rect width="12" height="9" x="2" y="7" fill="currentColor" rx="1" ry="1"/>
+                      <path fill="none" stroke="currentColor" d="M4.5 7.5V4a3.5 3.5 0 017 0v3.5"/>
+                    </svg>
+                  {{/if}}
+                </a>
+            </li>
+          {{/each}}
+        </ul>
+      </section>
+    {{/if}}
+  
+  
+
+
+  {{#if help_center.community_enabled}}
+    <section class="section home-section community">
+      <h2>{{t 'community'}}</h2>
+      {{#link 'community' class='community-link'}}
+        {{t 'join_conversation'}}
+      {{/link}}
+
+      <div class="community-image"></div>
+    </section>
+  {{/if}}
+
+  <section class="section home-section activity">
+    {{#if settings.show_recent_activity}}
+      {{recent_activity}}
+    {{/if}}
+  </section>
+</div>
+
+
+
+
+
+
