@@ -2368,10 +2368,12 @@ border-top-style: solid;
 }
 
 .section-tree-title {
-  margin-bottom: 0;
-  font-size: 18px;
-  font-weight: 600;
-  text-decoration-color: #ffffff;
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration-color: #ffffff;
+    align-items: end;
+    justify-content: end;
 }
 
 .section-tree-title a {
